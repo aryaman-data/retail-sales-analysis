@@ -170,12 +170,12 @@ CREATE TABLE transactions (
 5. Run Cells 3–16 to generate and download all 10 charts as a ZIP
 
 ### Excel 
-1. Open `Phase4_Excel_Dashboard.xlsx`
+1. Open `Excel Dashboard.xlsx`
 2. Insert Phase 3 chart PNGs into the Dashboard placeholder boxes
 3. Explore the Summary Tables sheet for interactive native Excel charts
 
 
-## 👤 Author
+##  Author
 
 **Aryaman Vishnoi**
 [LinkedIn](https://www.linkedin.com/in/aryamanvishnoi-data/)
